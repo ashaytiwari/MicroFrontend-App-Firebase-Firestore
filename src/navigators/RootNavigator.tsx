@@ -3,6 +3,7 @@ import React from 'react';
 import Home from '../screens/Home';
 import Products from '../screens/Products';
 import { colors } from '../styles/colors';
+import Posts from '../screens/Posts';
 
 const Drawer = createDrawerNavigator();
 
@@ -24,6 +25,7 @@ function RootNavigator(){
     <Drawer.Navigator {...drawerNavigatorAttributes}>
       <Drawer.Screen name='Home' component={Home} />
       <Drawer.Screen name='Products' component={Products} />
+      <Drawer.Screen name='Posts' component={Posts} />
     </Drawer.Navigator>
   );
 
