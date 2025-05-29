@@ -1,14 +1,11 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-import PostsScreen from '../../modules/posts-module/App';
-
 const Posts = () => {
 
   return (
     <View style={styles.viewContainer}>
-      {/* <Text style={styles.heading}>Posts Page</Text> */}
-      <PostsScreen />
+      <Text style={styles.heading}>Posts Page</Text>
     </View>
   );
 };

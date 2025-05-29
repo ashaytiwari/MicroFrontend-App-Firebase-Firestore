@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912873823138",
+    "project_id": "dth-firebase-poc",
+    "storage_bucket": "dth-firebase-poc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912873823138:android:f06c6b654bc68cfa6bf0fb",
+        "android_client_info": {
+          "package_name": "com.rnmicrofrontmainapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeQmcAvZmNXLQ8EfDn2O2nbJz6028ATc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
